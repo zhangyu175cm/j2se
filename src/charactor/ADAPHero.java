@@ -24,4 +24,10 @@ public class ADAPHero extends Hero implements AD, AP ,Mortal{
 		System.out.println("ADAPÓ¢ĞÛËÀÍö");
 	}
 
+	@Override
+	public void attack() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

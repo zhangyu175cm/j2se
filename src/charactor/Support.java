@@ -10,6 +10,12 @@ public class Support extends Hero implements Heater{
 		System.out.println("进行了治疗");
 		
 	}
+
+	@Override
+	public void attack() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 }  
